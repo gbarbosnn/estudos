@@ -1,4 +1,4 @@
-/*
+package LogicaViradoNoJiraya;/*
 * Crie uma váriavel que irá guardar o valor de um salário
 * Calcule a 30%, 15% e 5% desse salário
 * Reutilize o resultado a cada cálculo.

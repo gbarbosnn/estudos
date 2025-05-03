@@ -1,3 +1,5 @@
+package LogicaViradoNoJiraya;
+
 public class TiposPrimitivos {
     public static void main(String[] args) {
         char inicial = 'G';

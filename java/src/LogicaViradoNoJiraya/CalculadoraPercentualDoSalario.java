@@ -1,4 +1,4 @@
-/*
+package LogicaViradoNoJiraya;/*
 Criar uma classe que calcule uma determinada porcentagem de um dado salário
  */
 
