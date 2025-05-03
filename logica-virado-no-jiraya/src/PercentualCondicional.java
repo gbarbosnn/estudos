@@ -6,9 +6,14 @@
 * Diga na impressão ao que se refere o resultado
  */
 
+import java.util.Scanner;
+
 public class PercentualCondicional {
     public static void main(String[] args) {
-        float salario = 1000f;
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Informe seu salário:");
+        float salario = input.nextFloat();
         float resultado = 0f;
 
         if(salario > 4500){
