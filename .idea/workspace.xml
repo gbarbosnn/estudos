@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d5fd57-589e-4e2b-8088-db337a3cd2b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/RepeatWhileDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/estudos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,18 +57,32 @@
       <recent name="C:\Users\gustavo.nunes\dev\pessoal\estudos-java\basic-java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gustavo.nunes\dev\pessoal\estudos-java" />
       <recent name="C:\Users\gustavo.nunes\dev\pessoal\estudos-java\java" />
       <recent name="C:\Users\gustavo.nunes\dev\pessoal\estudos-java\java\src\logica" />
       <recent name="C:\Users\gustavo.nunes\dev\pessoal\estudos-java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RepeatWhileDoWhile">
+  <component name="RunManager" selected="Application.RepeatFor">
     <configuration name="CalculadoraPercentualDoSalario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LogicaViradoNoJiraya.CalculadoraPercentualDoSalario" />
       <module name="estudos" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LogicaViradoNoJiraya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJava.RepeatFor" />
+      <module name="estudos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatFor" />
         <item itemvalue="Application.RepeatWhileDoWhile" />
         <item itemvalue="Application.CalculadoraPercentualDoSalario" />
       </list>
