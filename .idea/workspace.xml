@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Open Files" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d5fd57-589e-4e2b-8088-db337a3cd2b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/RepeatBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/Javadoc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +43,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.CalculadoraPercentualDoSalario.executor&quot;: &quot;Run&quot;,
     &quot;Application.RepeatBreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RepeatContinue.executor&quot;: &quot;Run&quot;,
     &quot;Application.RepeatFor.executor&quot;: &quot;Run&quot;,
     &quot;Application.RepeatWhileDoWhile.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThePowerOfFor.executor&quot;: &quot;Run&quot;,
