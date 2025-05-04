@@ -1,8 +1,23 @@
 package POO.Module01;
 
-public class Account { //Classe -> Sempre com primeira letra maiuscula
-    String accountNumber; //Atributo -> Tipo e nome da variavel em camelCase
+public class Account {
+    String accountNumber;
     String accountOwner;
     double balance;
-    // As classes definem as estruturas dos objetos da aplicacao
+
+    /**
+     * This method prints the account balance.
+     */
+    void printBalance(){
+        System.out.println("Balance: R$ "+ balance);
+    }
+
+    /**
+     * This method makes a deposit into the account.
+     * @param amount This is the amount to deposit.
+     */
+    void deposit(double amount){
+        balance += amount;
+    }
+
 }
