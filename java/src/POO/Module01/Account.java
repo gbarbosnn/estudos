@@ -42,4 +42,10 @@ public class Account {
 
         return false;
     }
+
+    void transfer(double amount, Account targetAccount){
+        withdraw(amount);
+        targetAccount.deposit(amount);
+    }
+
 }
