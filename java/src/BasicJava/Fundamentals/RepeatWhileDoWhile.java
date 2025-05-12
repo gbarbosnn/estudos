@@ -1,4 +1,4 @@
-package BasicJava;
+package BasicJava.Fundamentals;
 
 public class RepeatWhileDoWhile {
     public static void main(String[] args) {

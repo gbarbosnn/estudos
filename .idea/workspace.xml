@@ -9,10 +9,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d5fd57-589e-4e2b-8088-db337a3cd2b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/POO/Module01/App3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/Exercices/Exercice01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/Exercices/Exercice01/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/Exercices/Exercice02/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/Exercices/Exercice02/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module02/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module02/account/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module02/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/POO/Module01/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/POO/Module01/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/Javadoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/Javadoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/RepeatBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/RepeatBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/RepeatContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/RepeatContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/RepeatFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/RepeatFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/RepeatWhileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/RepeatWhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/SwitchExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/SwitchExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BasicJava/ThePowerOfFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/Fundamentals/ThePowerOfFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/POO/Module01/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/POO/Module01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/POO/Module01/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/POO/Module01/App3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BasicJava/POO/Module01/App3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +60,11 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.App2.executor": "Run",
+    "Application.App3.executor": "Run",
+    "Application.BasicJava.POO.Module02.app.App.executor": "Run",
     "Application.CalculadoraPercentualDoSalario.executor": "Run",
+    "Application.POO.Module01.Exercices.Exercice01.App.executor": "Run",
+    "Application.POO.Module01.Exercices.Exercice02.App.executor": "Run",
     "Application.RepeatBreak.executor": "Run",
     "Application.RepeatContinue.executor": "Run",
     "Application.RepeatFor.executor": "Run",
@@ -79,26 +98,13 @@
       <recent name="C:\Users\gustavo.nunes\dev\pessoal\estudos-java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App3">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.Module01.App" />
-      <module name="estudos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="POO.Module01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BasicJava.POO.Module02.app.App">
     <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.Module01.App2" />
+      <option name="MAIN_CLASS_NAME" value="BasicJava.POO.Module01.App2" />
       <module name="estudos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POO.Module01.*" />
+          <option name="PATTERN" value="BasicJava.POO.Module01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="App3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.Module01.App3" />
+      <option name="MAIN_CLASS_NAME" value="BasicJava.POO.Module01.App3" />
       <module name="estudos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POO.Module01.*" />
+          <option name="PATTERN" value="BasicJava.POO.Module01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJava.RepeatBreak" />
+    <configuration name="BasicJava.POO.Module01.Exercices.Exercice01.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJava.POO.Module01.Exercices.Exercice01.App" />
       <module name="estudos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicJava.*" />
+          <option name="PATTERN" value="BasicJava.POO.Module01.Exercices.Exercice01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +138,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJava.RepeatContinue" />
+    <configuration name="BasicJava.POO.Module01.Exercices.Exercice02.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJava.POO.Module01.Exercices.Exercice02.App" />
       <module name="estudos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicJava.*" />
+          <option name="PATTERN" value="BasicJava.POO.Module01.Exercices.Exercice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicJava.POO.Module02.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJava.POO.Module02.app.App" />
+      <module name="estudos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicJava.POO.Module02.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicJava.POO.Module02.app.App" />
+        <item itemvalue="Application.BasicJava.POO.Module01.Exercices.Exercice02.App" />
+        <item itemvalue="Application.BasicJava.POO.Module01.Exercices.Exercice01.App" />
         <item itemvalue="Application.App3" />
         <item itemvalue="Application.App2" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.RepeatContinue" />
-        <item itemvalue="Application.RepeatBreak" />
       </list>
     </recent_temporary>
   </component>

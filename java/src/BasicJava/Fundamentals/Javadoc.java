@@ -1,4 +1,4 @@
-package BasicJava;
+package BasicJava.Fundamentals;
 
 /**
  * A classe {@code Javadoc} demonstra o uso de comentários Javadoc em Java.

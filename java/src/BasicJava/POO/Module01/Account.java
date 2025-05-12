@@ -1,4 +1,4 @@
-package POO.Module01;
+package BasicJava.POO.Module01;
 
 public class Account {
     String accountNumber;
